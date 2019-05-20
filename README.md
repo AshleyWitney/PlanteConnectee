@@ -14,8 +14,5 @@ Projet Dev B1 (Ashley Konaté, Amadou Samoura & Yessi Munguengui)
   * `index.html` : page principale de l'application
   * `style.css` : design de l'application
 
-* build : 
-* node_modules : modules externes importés (express)
-* `sujet.pdf` : sujet du projet
-* `.gitignore` : filtre des fichiers à exclure dans le dépôt git
+
 
