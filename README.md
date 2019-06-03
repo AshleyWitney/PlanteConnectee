@@ -43,13 +43,5 @@ Supprimer une plante.
      Ouvrez ensuite un navigateur à l'adresse localhost:8080
      Et voilà ! 
   PS :  Il faut un serveur local supportant les pages PHP
-## Organisation des sources
-* client: sources relatives aux navigateur(s)
-  * `index.html` : page principale de l'application
-  * `style.css` : design de l'application
 
-* build : 
-* node_modules : modules externes importés (express)
-* `sujet.pdf` : sujet du projet
-* `.gitignore` : filtre des fichiers à exclure dans le dépôt git
 
