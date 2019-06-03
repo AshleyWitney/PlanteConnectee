@@ -1,6 +1,26 @@
-# PlanteConnectee
-Projet Dev B1 (Ashley Konaté, Amadou Samoura & Yessi Munguengui)
+##Projet Plante connectée
+# Présentation de l'équipe
+Ashley Konaté
+Amadou Samoura
+Yessi Yessi-Y-Munguengui
 
+# Présentation du projet 
+Le projet plante connectée consiste à 
+concevoir un logiciel,qui permettra à une personne lambdade faire pousser une plante (chez soie ou enextérieur), sans
+avoir de connaissances particulières en botanique.
+
+# Matériels utilisés
+Arduino Uno
+Module WIFI ESP8266
+Capteur de température et d'humidité DHT11
+Raspberry Pi
+Capteur de luminosité LM393
+
+# Technologie utilisées 
+Python
+SQL
+Langage C
+PHP
 ## Installation et lancement
 * Récupération du projet, des dépendances et compilation :
 
