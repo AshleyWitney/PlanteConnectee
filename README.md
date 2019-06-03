@@ -6,7 +6,7 @@ Yessi Yessi-Y-Munguengui
 
 ## Présentation du projet 
 Le projet plante connectée consiste à 
-concevoir un logiciel,qui permettra à une personne lambdade faire pousser une plante (chez soie ou enextérieur), sans
+concevoir un logiciel,qui permettra à une personne lambda de faire pousser une plante (chez soi ou en extérieur), sans
 avoir de connaissances particulières en botanique.
 
 ## Matériels utilisés
