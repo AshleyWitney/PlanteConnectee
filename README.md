@@ -1,4 +1,4 @@
-##Projet Plante connectée
+## Projet Plante connectée
 # Présentation de l'équipe
 Ashley Konaté
 Amadou Samoura
@@ -21,6 +21,13 @@ Python
 SQL
 Langage C
 PHP
+## Architecture du site
+
+# Fonctionalités
+Concernant l'interface client , l'urilisateur a la possibilité de se connecter puis de choisir les fonctionalitées suivantes :
+Consulter la liste des plantes
+Enregistrer une plante avec la date de plantation
+Supprimer une plante.
 ## Installation et lancement
 * Récupération du projet, des dépendances et compilation :
 
