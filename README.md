@@ -21,7 +21,9 @@ Python
 SQL
 Langage C
 PHP
-## Architecture du site
+
+## Structure du projet 
+Le dossier Base de données comprends les scripts SQL nécessaires à la création de notre base de données et le dossier Logiciel comprends les codes nécessaires à l'acquisition et au traitement des données. Enfin, le dossier Interface comprends l'ensemble des fichiers nécessaires pour utiliser notre application.
 
 ## Fonctionalités
 Concernant l'interface client , l'urilisateur a la possibilité de se connecter puis de choisir les fonctionalitées suivantes :
@@ -34,8 +36,13 @@ Supprimer une plante.
     ```bash
     git clone https://github.com/Yxssi/PlanteConnectee.git
     cd PlanteConnectee
-    
-    ```
+    sudo apt-get install php
+    cd Interface
+    php -S localhost:8080
+     ```
+     Ouvrez ensuite un navigateur à l'adresse localhost:8080
+     Et voilà ! 
+  PS :  Il faut un serveur local supportant les pages PHP
 ## Organisation des sources
 * client: sources relatives aux navigateur(s)
   * `index.html` : page principale de l'application
