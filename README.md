@@ -42,6 +42,6 @@ Supprimer une plante.
      ```
      Ouvrez ensuite un navigateur à l'adresse localhost:8080
      Et voilà ! 
-  PS :  Il faut un serveur local supportant les pages PHP
+  PS :  Il faut un serveur local supportant les pages PHP, 
 
 
